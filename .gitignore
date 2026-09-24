@@ -67,3 +67,5 @@ venv.bak/
 *.json
 !tests/fixtures/*.json
 subsweep-*.zip
+
+node_modules/
