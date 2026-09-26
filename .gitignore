@@ -66,6 +66,8 @@ venv.bak/
 *.csv
 *.json
 !tests/fixtures/*.json
+!examples/**/*.json
+!examples/**/*.csv
 subsweep-*.zip
 
 node_modules/
